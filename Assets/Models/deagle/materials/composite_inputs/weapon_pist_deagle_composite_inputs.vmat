@@ -1,0 +1,32 @@
+"Layer0"
+{
+	"shader"	"csgo_composite_inputs.vfx"
+	"F_SEPARATE_CHANNEL_INPUTS"	"1"
+	"MaterialLayerReferenceShaderId_1"	"-1"
+	"g_flUvScale1"	"0.478"
+	"g_flWeaponLength1"	"11.55"
+	"TextureMig1"	"[0.000000 0.000000 0.000000 1.000000]"
+	"TextureCavity1"	"weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_cavity.png"
+	"TextureAmbientOcclusion1"	"weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_cavity_e0b36573_ao.png"
+	"TextureNoPaint1"	"weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_cavity_e0b36573_nopaint.png"
+	"TextureColor1"	"weapons/models/deagle/materials/deagle_default_color.png"
+	"TextureMasks1"	"weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_masks.png"
+	"TextureRoughness1"	"weapons/models/deagle/materials/deagle_default_rough.png"
+	"TextureMetalness1"	"weapons/models/deagle/materials/deagle_default_b238a11a_metal.png"
+	"TexturePosition1"	"weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_pos.png"
+	"TextureSurface1"	"weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_surface.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_cavity_psd_e0b36573.vtex"
+		"g_tColor"	"weapons/models/deagle/materials/deagle_default_color_psd_51a7b347.vtex"
+		"g_tMasks"	"weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_masks_tga_ea334f65.vtex"
+		"g_tMetalness"	"weapons/models/deagle/materials/deagle_default_rough_tga_b238a11a.vtex"
+		"g_tPosition"	"weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_pos_pfm_21fb5a88.vtex"
+		"g_tSurface"	"weapons/models/deagle/materials/composite_inputs/weapon_pist_deagle_surface_tga_9c96c7a6.vtex"
+	}
+	"Attributes"
+	{
+		"layer_name_1"	"weapon_pist_deagle.vmat"
+		"PreviewModel"	"weapons/models/deagle/weapon_pist_deagle.vmdl"
+	}
+}

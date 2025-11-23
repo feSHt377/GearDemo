@@ -1,0 +1,28 @@
+"Layer0"
+{
+	"shader"	"csgo_composite_inputs.vfx"
+	"MaterialLayerReferenceShaderId_1"	"-1"
+	"g_flUvScale1"	"0.506"
+	"g_flWeaponLength1"	"15.3"
+	"TextureAmbientOcclusion1"	"weapons/models/knife/knife_m9/materials/composite_inputs/knife_m9_bay_ao.png"
+	"TextureColor1"	"materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay_color.png"
+	"TextureMasks1"	"weapons/models/knife/knife_m9/materials/composite_inputs/knife_m9_bay_masks.png"
+	"TextureRoughness1"	"materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay_rough.png"
+	"TextureMetalness1"	"materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay_2cd44509_metal.png"
+	"TexturePosition1"	"weapons/models/knife/knife_m9/materials/composite_inputs/knife_m9_bay_pos.png"
+	"TextureSurface1"	"weapons/models/knife/knife_m9/materials/composite_inputs/knife_m9_bay_surface.png"
+	"Compiled Textures"
+	{
+		"g_tAmbientOcclusion"	"weapons/models/knife/knife_m9/materials/composite_inputs/knife_m9_bay_ao_psd_82438841.vtex"
+		"g_tColor"	"materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay_color_psd_a4b8e53b.vtex"
+		"g_tMasks"	"weapons/models/knife/knife_m9/materials/composite_inputs/knife_m9_bay_masks_psd_6286649c.vtex"
+		"g_tMetalness"	"materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay_rough_psd_2cd44509.vtex"
+		"g_tPosition"	"weapons/models/knife/knife_m9/materials/composite_inputs/knife_m9_bay_pos_pfm_d67a9a2f.vtex"
+		"g_tSurface"	"weapons/models/knife/knife_m9/materials/composite_inputs/knife_m9_bay_surface_psd_4ac9de83.vtex"
+	}
+	"Attributes"
+	{
+		"layer_name_1"	"weapon_knife_m9.vmat"
+		"PreviewModel"	"weapons/models/knife/knife_m9/weapon_knife_m9.vmdl"
+	}
+}
